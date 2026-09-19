@@ -1,6 +1,6 @@
 # Kerala Road Accident Analytics — 2025
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](PowerBI_Dashboard.png)
 
 ## 📊 Project Overview
 
